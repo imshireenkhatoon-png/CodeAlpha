@@ -1,34 +1,23 @@
-# 💼 CodeAlpha Internship
+# 🌟 Beautiful Calculator
 
-Welcome to my **CodeAlpha Internship Repository**👋  
-This repo contains all the projects and tasks I’ve completed during my internship at **CodeAlpha**.
-
----
-
-## 🌟 About Me
-👩‍💻 **Name:** Shireen Khatoon  
-🎓 **Education:** B.Tech in Computer Science, Jabalpur Engineering College  
-🔗 **LinkedIn:** [Shireen Khatoon](https://www.linkedin.com/in/shireen-khatoon-584210317)
+A simple yet elegant *Calculator Web App* built using *HTML, **Tailwind CSS, and **JavaScript*.  
+It performs all basic arithmetic operations with a modern and responsive design.
 
 ---
 
-## 🚀 Internship Overview
-- Gaining hands-on experience in front-end development  
-- Working on projects using **HTML**, **CSS**, and **JavaScript**  
-- Improving problem-solving and UI/UX design skills  
+## 🚀 Features
+
+- ✅ Basic arithmetic operations: Addition, Subtraction, Multiplication, Division  
+- 💡 Responsive and mobile-friendly layout  
+- ⚡ Smooth animations and button press effects  
+- ⌨ Keyboard input support  
+- 🎨 Modern UI with gradient background and glowing display
 
 ---
 
-## 📂 Tasks & Projects
+## 🧠 Technologies Used
 
-|    Task   | Project Name | Description | Technologies |
-|-----------|--------------|-------------|--------------|
-| 🧮 Task 1 | **Calculator** | A responsive calculator built using HTML, CSS, and JS | HTML, CSS, JS |
-| 🌐 Task 2 | **Portfolio Website** | A personal portfolio showcasing my skills and projects | HTML, CSS , JS|
+- *HTML5* — Structure of the calculator  
+- *Tailwind CSS (CDN)* — Styling and layout  
+- *Vanilla JavaScript* — Functional logic and animations
 
-Each project folder contains its own code files (index.html, style.css, script.js) and a short README for that task.
-
----
-
-## 🧾 Quote I Live By
-> “Learning never exhausts the mind.” – Leonardo da Vinci
