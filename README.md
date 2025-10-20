@@ -1,6 +1,7 @@
-# 🌟 Beautiful Calculator
+# 🌟Task-1 Calculator
 
-A simple yet elegant *Calculator Web App* built using *HTML, **Tailwind CSS, and **JavaScript*.  
+This is my first project under the **CodeAlpha Internship**
+A simple yet elegant **Calculator Web App** built using **HTML**, **Tailwind CSS**, and **JavaScript**.  
 It performs all basic arithmetic operations with a modern and responsive design.
 
 ---
@@ -20,4 +21,5 @@ It performs all basic arithmetic operations with a modern and responsive design.
 - *HTML5* — Structure of the calculator  
 - *Tailwind CSS (CDN)* — Styling and layout  
 - *Vanilla JavaScript* — Functional logic and animations
+
 
